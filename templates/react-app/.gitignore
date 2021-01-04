@@ -1,0 +1,11 @@
+# dependencies
+node_modules
+
+# webpack bundle analyzer stats file
+bundle-stats.json
+
+# distribution
+dist
+
+# test coverage
+coverage

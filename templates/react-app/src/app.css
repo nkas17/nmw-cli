@@ -1,0 +1,14 @@
+html {
+  background-color: #2a2929;
+  color: #dddddd;
+  font-family: monospace;
+}
+.app__header{
+  border: dashed 2px cyan;
+  text-align: center;
+  margin: 16px;
+}
+
+.app__header__name{
+  color:cyan;
+}

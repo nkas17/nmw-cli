@@ -1,0 +1,36 @@
+# React Starter Template Project
+- This is used in nmw-cli to create a new react project.
+
+### Dependencies
+- [react](https://www.npmjs.com/package/react)
+- [react-dom](https://www.npmjs.com/package/react-dom)
+- [react-hot-loader](https://www.npmjs.com/package/react-hot-loader)
+
+### Dev-Dependencies
+- [@babel/cli](https://www.npmjs.com/package/@babel/cli)
+- [@babel/core](https://www.npmjs.com/package/@babel/core)
+- [@babel/preset-env](https://www.npmjs.com/package/@babel/preset-env)
+- [@babel/preset-react](https://www.npmjs.com/package/@babel/preset-react)
+- [@hot-loader/react-dom](https://www.npmjs.com/package/@hot-loader/react-dom)
+- [babel-jest](https://www.npmjs.com/package/bael-jest)
+- [babel-loader](https://www.npmjs.com/package/babel-loader)
+- [copy-webpack-plugin](https://www.npmjs.com/package/copy-webpack-plugin)
+- [css-loader](https://www.npmjs.com/package/css-loader)
+- [eslint](https://www.npmjs.com/package/eslint)
+- [eslint-config-airbnb](https://www.npmjs.com/package/eslint-config-airbnb)
+- [eslint-config-prettier](https://www.npmjs.com/package/eslint-config-prettier)
+- [eslint-plugin-import](https://www.npmjs.com/package/eslint-plugin-import)
+- [eslint-plugin-jsx-a11y](https://www.npmjs.com/package/eslint-plugin-jsx-a11y)
+- [eslint-plugin-prettier](https://www.npmjs.com/package/eslint-plugin-prettier)
+- [eslint-plugin-react](https://www.npmjs.com/package/eslint-plugin-react)
+- [eslint-plugin-react-hooks](https://www.npmjs.com/package/eslint-plugin-react-hooks)
+- [jest](https://www.npmjs.com/package/jest)
+- [prettier](https://www.npmjs.com/package/prettier)
+- [rimraf](https://www.npmjs.com/package/rimraf)
+- [style-loader](https://www.npmjs.com/package/styles-loader)
+- [@testing-library/jest-dom](https://www.npmjs.com/package/@testing-library/jest-dom)
+- [@testing-library/react](https://www.npmjs.com/package/@testing-library/react)
+- [webpack](https://www.npmjs.com/package/webpack)
+- [webpack-bundle-analyzer](https://www.npmjs.com/package/webpack-bundle-analyzer)
+- [webpack-cli](https://www.npmjs.com/package/webpack-cli)
+- [webpack-dev-server](https://www.npmjs.com/package/webpack-dev-server)
